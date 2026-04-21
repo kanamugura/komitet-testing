@@ -1,0 +1,10 @@
+{
+  "project": "Комитет по энергетике и инженерному обеспечению",
+  "url": "https://www.gov.spb.ru/gov/otrasl/ingen/",
+  "purpose": "Учебный репозиторий для материалов тестирования веб-приложения",
+  "branches": [
+    "main",
+    "test-docs",
+    "screenshots"
+  ]
+}
